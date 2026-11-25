@@ -1,0 +1,9 @@
+storage/
+*.mmdb
+tor-exit-nodes.txt
+*.log
+.env
+vendor/
+node_modules/
+playwright-report/
+test-results/
